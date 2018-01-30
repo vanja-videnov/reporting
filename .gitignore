@@ -17,4 +17,7 @@
 !/log/.keep
 !/tmp/.keep
 
+# Ignore .doc files
+/doc/*
+
 .byebug_history
